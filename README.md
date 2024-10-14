@@ -1,3 +1,6 @@
+# Astro Blog 
+I walked through the Astro tutorial to learn how to use Astro's capabilities to create a blog to evaluate if it makes sense for my own blog.
+
 # Astro Starter Kit: Minimal
 
 ```sh
